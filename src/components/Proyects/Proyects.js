@@ -15,8 +15,8 @@ const Proyects = () => {
     return (
         <div>
           <NavBar/>
-          <div className="justify-items-center mt-20 mx-auto grid grid-cols-2 gap-8 justify-center">
-            <div className="grid justify-items-start w-3/5 w-[calc(50%-1rem)] flex flex-col items-end">
+          <div className="justify-items-center mt-20 mx-auto grid lg:grid-cols-2 gap-8 justify-center">
+            <div className="grid justify-items-start w-full lg:w-3/5 flex flex-col lg:items-end pl-3">
               <div>
                 <h1 className='font-mono animate-fade-right animate-once animate-duration-[2000ms] 
                     animate-delay-50 animate-ease-linear animate-normal animate-fill-forwards text-4xl mb-3 text-Color2'>E-latam commerce</h1>
@@ -28,7 +28,7 @@ const Proyects = () => {
                 <img className=" cursor-pointer max-w-full h-auto object-cover" alt="eLatam" onClick={handleClickPF} src="https://i.postimg.cc/tT55Dg5j/e-latam.png" />
               </div>
             </div>
-            <div className="w-3/5 w-[calc(50%-1rem)] flex flex-col items-end">
+            <div className="w-full lg:w-3/5  flex flex-col lg:items-end pl-3">
               <div>
                 <h1 className='font-mono animate-fade-left animate-once animate-duration-[2000ms] animate-delay-50 
                     animate-ease-linear animate-normal animate-fill-forwards text-4xl mb-3 text-Color2'>Countrys App</h1>

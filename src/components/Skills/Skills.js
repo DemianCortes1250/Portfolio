@@ -9,10 +9,10 @@ const Skills = () => {
             <NavBar/>
             <div className="flex justify-center items-center">
                 <div className="font-mono animate-fade-down animate-once animate-duration-[1800ms] animate-delay-50 animate-ease-linear animate-normal animate-fill-forwards w-1/4 mt-4 pt-4">
-                    <h1 className="text-4xl font-bold inline border-b-4 border-Color3 w-96 text-2xl text-Color1">Skills</h1>
+                    <h1 className="text-4xl font-bold inline border-b-4 border-Color3 w-full sm:w-96 text-2xl text-Color1">Skills</h1>
                 </div>
             </div>
-            <div className=" mt-10 max-w-[550px] mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 justify-center">
+            <div className="pl-5 mt-10 max-w-[550px] mx-auto grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-4 justify-center">
                 <div className=" animate-fade-down animate-once animate-duration-[1000ms] animate-delay-50 animate-ease-linear animate-normal animate-fill-forwards p-8 border-Color2 border-solid border-2 w-44">
                     <img alt="Javascript" src="https://portfolio-parzybaal.vercel.app/assets/javascript.d04a05c4.png"/>
                 </div>
