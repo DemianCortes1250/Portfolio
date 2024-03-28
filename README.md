@@ -9,7 +9,7 @@ Projects: A list of featured projects I've worked on, with links to their respec
 Skills: A list of technical skills I possess, including programming languages, tools, and technologies.
 
 How to Use
-If you'd like to view my portfolio online, simply visit my website.
+If you'd like to view my portfolio online, simply visit my website https://demian-cortes-portfolio.vercel.app/.
 
 If you prefer to run my portfolio locally:
 
