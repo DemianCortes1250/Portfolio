@@ -4,8 +4,14 @@ import Proyects from './components/Proyects/Proyects';
 import Landing from './components/Landing/Landing';
 import Skills from './components/Skills/Skills';
 import Contact from './components/Contact/Contact';
+import React, { useEffect } from 'react';
 
 function App() {
+
+    useEffect(() => {
+      document.title = "Demian A.Cortes";
+    }, []);
+  
   return (
     <div>
       <Routes>
