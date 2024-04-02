@@ -8,7 +8,7 @@ const Skills = () => {
         <div>
             <NavBar/>
             <div className="flex justify-center items-center">
-                <div className="font-mono animate-fade-down animate-once animate-duration-[1800ms] animate-delay-50 animate-ease-linear animate-normal animate-fill-forwards w-1/4 mt-4 pt-4">
+                <div className="font-mono animate-fade-down animate-once animate-duration-[1800ms] animate-delay-50 animate-ease-linear animate-normal animate-fill-forwards w-1/4 mt-5 pt-4">
                     <h1 className="text-4xl font-bold inline border-b-4 border-Color3 w-full sm:w-96 text-2xl text-Color1">Skills</h1>
                 </div>
             </div>
