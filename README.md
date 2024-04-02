@@ -25,5 +25,3 @@ Contact
 If you have any questions or just want to say hello, feel free to contact me via email: demian.a.cortes1250@gmail.com.
 
 Thank you for visiting my portfolio!
-
-Feel free to customize this README according to your needs and add more sections if desired. I hope this helps!
