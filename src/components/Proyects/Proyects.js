@@ -15,7 +15,7 @@ const Proyects = () => {
     return (
         <div>
           <NavBar/>
-          <div className="justify-items-center mt-20 mx-auto grid lg:grid-cols-2 gap-8 justify-center">
+          <div className="pr-2 justify-items-center mt-20 mx-auto grid lg:grid-cols-2 gap-8 justify-center">
             <div className="grid justify-items-start w-full lg:w-3/5 flex flex-col lg:items-end pl-3">
               <div>
                 <h1 className='font-mono animate-fade-right animate-once animate-duration-[2000ms] 

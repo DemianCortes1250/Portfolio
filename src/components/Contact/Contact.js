@@ -25,7 +25,7 @@ const Contact = () => {
     <div>
       <NavBar />
       <div className=" flex flex-col items-center mt-20">
-        <p className="pl-3 animate-fade-down animate-once animate-duration-[2000ms] animate-delay-[10ms] animate-ease-linear animate-normal 
+        <p className="pr-3 pl-3 animate-fade-down animate-once animate-duration-[2000ms] animate-delay-[10ms] animate-ease-linear animate-normal 
             animate-fill-forwards w-full lg:w-1/2 font-mono leading-normal tracking-normal antialiased fond-bold text-2xl text-orange-200">
             Thank you for taking the time to explore my portfolio. As an aspiring programmer, I'm dedicated to delivering innovative, 
             high-quality solutions to technological challenges. I hope that my work and skills align with what you're seeking.

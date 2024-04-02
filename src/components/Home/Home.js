@@ -2,7 +2,7 @@ const Home = () => {
 
 
     return (
-        <div className= "relative flex flex-col p-2  mt-10 ml-2 h-full mr-2 mb-2 space-y-8" >
+        <div className= "pb-8 relative flex flex-col p-2  mt-10 ml-2 h-full mr-2 mb-2 space-y-8" >
             <div className="ml-5">
                 <h1 className="font-mono animate-fade-right animate-once animate-duration-[2000ms] 
                     animate-delay-50 animate-ease-linear animate-normal animate-fill-forwards 
