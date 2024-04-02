@@ -7,9 +7,9 @@ const Skills = () => {
     return (
         <div>
             <NavBar/>
-            <div className="flex justify-center items-center">
-                <div className="font-mono animate-fade-down animate-once animate-duration-[1800ms] animate-delay-50 animate-ease-linear animate-normal animate-fill-forwards w-1/4 mt-4 pt-4">
-                    <h1 className="text-4xl font-bold inline border-b-4 border-Color3 w-full sm:w-96 text-2xl text-Color1">Skills</h1>
+            <div className="flex justify-center font-mono animate-fade-down animate-once animate-duration-1800 animate-delay-50 animate-ease-linear animate-normal animate-fill-forwards mt-4 pt-4 text-center lg:text-left">
+                <div>
+                    <h1 className="inline-block border-b-4 border-Color3 sm:w-96 lg:w-full text-4xl text-Color1">Skills</h1>
                 </div>
             </div>
             <div className="pb-8 pl-3 pr-2 mt-10 max-w-[550px] mx-auto grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-8 justify-center">
