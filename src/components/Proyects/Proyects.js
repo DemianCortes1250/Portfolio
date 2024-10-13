@@ -2,7 +2,7 @@ import React from 'react';
 import NavBar from '../NavBar/NavBar';
 import Pi from '../../assets/Pi.png'
 
-const Projects = () => {
+const Proyects = () => {
 
     const handleClickPF = () => {
         window.location.href = "https://pf-e-latam.netlify.app/";
@@ -45,4 +45,4 @@ const Projects = () => {
       );
     }
 
-export default Projects;
+export default Proyects;
